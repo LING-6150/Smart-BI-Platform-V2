@@ -1,6 +1,4 @@
-# 鱼智能 BI
 
-This project is initialized with [鱼智能 BI](https://pro.ant.design). Follow is the quick guide for how to use.
 
 ## Environment Prepare
 
